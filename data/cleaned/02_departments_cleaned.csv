@@ -1,0 +1,19 @@
+Department_ID,Department_Name,Floor,Speciality_Type,Head_Doctor,Daily_Capacity
+D001,Emergency,2,Clinical,DR1012,23
+D002,Cardiology,5,Clinical,DR1072,42
+D003,Orthopedics,1,Clinical,DR1022,57
+D004,Pediatrics,5,Clinical,DR1065,99
+D005,Neurology,5,Clinical,DR1025,28
+D006,General Medicine,4,Clinical,DR1017,29
+D007,General Surgery,0,Clinical,DR1037,73
+D008,Gynecology,0,Clinical,DR1072,93
+D009,ICU,4,Clinical,DR1047,97
+D010,Radiology,2,Diagnostic,DR1012,48
+D011,Pathology,0,Diagnostic,DR1014,58
+D012,ENT,0,Clinical,DR1000,78
+D013,Dermatology,3,Clinical,DR1075,91
+D014,Urology,3,Clinical,DR1091,77
+D015,Oncology,5,Clinical,DR1054,79
+D016,Nephrology,2,Clinical,DR1089,73
+D017,Dental,4,Clinical,DR1090,38
+D018,Psychiatry,5,Clinical,DR1057,97

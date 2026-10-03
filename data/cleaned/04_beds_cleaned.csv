@@ -1,0 +1,701 @@
+Bed_ID,Department_ID,Ward_Type,Floor,Bed_Status,Daily_Rate
+B1000,D005,General Ward,1,,6354.0
+B1001,D011,Emergency,5,,6150.0
+B1002,D012,Private,5,Occupied,2477.0
+B1003,D003,NICU,2,,11467.0
+B1004,D006,Isolation,5,Occupied,6149.0
+B1005,D013,Isolation,0,Available,2167.0
+B1006,D013,Emergency,0,,977.0
+B1007,D003,NICU,1,Available,11462.0
+B1008,D016,Emergency,1,Available,10070.0
+B1009,D018,Semi Private,1,,4515.0
+B1010,D006,Emergency,4,Maintenance,4634.0
+B1011,D015,General Ward,0,Available,7121.0
+B1012,D006,Semi Private,0,Occupied,7430.0
+B1013,D015,Private,0,Occupied,7679.0
+B1014,D006,Private,0,,4367.0
+B1015,D004,ICU,5,,1300.0
+B1016,D008,Emergency,1,Available,8794.0
+B1017,D014,Isolation,2,Occupied,9361.0
+B1018,D001,NICU,4,Available,606.0
+B1019,D018,Private,1,Maintenance,4758.0
+B1020,D013,Emergency,2,,9395.0
+B1021,D014,Isolation,0,Available,11379.0
+B1022,D001,Isolation,5,Maintenance,564.0
+B1023,D006,Semi Private,2,Maintenance,9162.0
+B1024,D005,NICU,5,,2006.0
+B1025,D013,Emergency,4,Available,3327.0
+B1026,D008,Isolation,1,Available,8437.0
+B1027,D003,Isolation,1,,2602.0
+B1028,D014,ICU,0,Maintenance,8572.0
+B1029,D012,Private,1,Maintenance,11905.0
+B1030,D002,Semi Private,0,Available,5048.0
+B1031,D004,Semi Private,2,Available,7554.0
+B1032,D006,Private,0,Available,730.0
+B1033,D009,ICU,0,Maintenance,1172.0
+B1034,D002,ICU,0,,1812.0
+B1035,D010,NICU,4,Available,2497.0
+B1036,D001,Emergency,4,Available,1959.0
+B1037,D007,NICU,0,Available,6490.0
+B1038,D010,Semi Private,5,Occupied,
+B1039,D004,General Ward,4,,7306.0
+B1040,D016,Private,4,Occupied,4357.0
+B1041,D014,Isolation,4,Available,10849.0
+B1042,D001,Emergency,2,Maintenance,2473.0
+B1043,D016,Semi Private,0,Occupied,1567.0
+B1044,D004,General Ward,3,Available,931.0
+B1045,D007,Private,3,Available,8850.0
+B1046,D016,Private,2,,4883.0
+B1047,D016,Semi Private,4,Occupied,9423.0
+B1048,D016,NICU,5,Occupied,6566.0
+B1049,D007,Semi Private,1,,6087.0
+B1050,D017,Isolation,2,Available,7976.0
+B1051,D013,Semi Private,3,,10451.0
+B1052,D010,Semi Private,0,Available,11096.0
+B1053,D001,Semi Private,5,Occupied,3651.0
+B1054,D009,General Ward,2,Available,10375.0
+B1055,D015,Semi Private,0,Occupied,11734.0
+B1056,D001,Emergency,0,Occupied,4174.0
+B1057,D009,General Ward,4,Occupied,8982.0
+B1058,D005,General Ward,5,Occupied,2160.0
+B1059,D002,Isolation,0,Maintenance,2931.0
+B1060,D018,NICU,2,Maintenance,4596.0
+B1061,D014,Semi Private,5,Available,816.0
+B1062,D013,NICU,2,Available,2204.0
+B1063,D010,Isolation,1,Available,
+B1064,D016,ICU,5,Available,8546.0
+B1065,D017,Emergency,4,Available,7150.0
+B1066,D014,NICU,3,Available,6826.0
+B1067,D007,Isolation,0,Available,10045.0
+B1068,D012,Semi Private,3,Available,7025.0
+B1069,D009,Semi Private,4,,5027.0
+B1070,D008,ICU,4,Occupied,9481.0
+B1071,D001,ICU,1,Occupied,
+B1072,D003,Semi Private,0,,7565.0
+B1073,D005,Semi Private,3,,1926.0
+B1074,D005,Private,5,,5935.0
+B1075,D013,ICU,2,Maintenance,10575.0
+B1076,D010,General Ward,2,Occupied,2240.0
+B1077,D004,General Ward,3,Maintenance,946.0
+B1078,D011,NICU,5,Occupied,2368.0
+B1079,D008,Isolation,0,Maintenance,5408.0
+B1080,D011,Private,3,,5743.0
+B1081,D009,Semi Private,2,Occupied,3259.0
+B1082,D007,ICU,4,Maintenance,9904.0
+B1083,D004,General Ward,5,Occupied,7758.0
+B1084,D017,Private,5,Maintenance,11250.0
+B1085,D016,ICU,2,Occupied,2177.0
+B1086,D001,Isolation,1,Available,7967.0
+B1087,D012,Private,1,Available,11371.0
+B1088,D002,ICU,2,Occupied,3823.0
+B1089,D018,Semi Private,4,Maintenance,631.0
+B1090,D006,NICU,4,Occupied,4982.0
+B1091,D005,ICU,2,Available,3574.0
+B1092,D003,NICU,5,,11535.0
+B1093,D014,NICU,4,Available,2113.0
+B1094,D005,Semi Private,5,Maintenance,1643.0
+B1095,D012,Semi Private,4,Occupied,3611.0
+B1096,D008,Private,4,Occupied,8762.0
+B1097,D006,Private,3,Occupied,7795.0
+B1098,D006,Semi Private,3,Maintenance,5811.0
+B1099,D009,General Ward,1,,616.0
+B1100,D001,NICU,4,,9741.0
+B1101,D017,Isolation,0,Maintenance,3629.0
+B1102,D010,Emergency,3,Maintenance,1692.0
+B1103,D001,Emergency,0,Available,10930.0
+B1104,D016,Emergency,0,Occupied,545.0
+B1105,D010,Private,3,Available,7229.0
+B1106,D007,Private,3,,2218.0
+B1107,D017,Isolation,4,Occupied,8394.0
+B1108,D008,Private,2,Occupied,4197.0
+B1109,D009,Emergency,0,Maintenance,6084.0
+B1110,D003,Isolation,5,Occupied,6155.0
+B1111,D014,ICU,3,Occupied,11389.0
+B1112,D005,NICU,2,Occupied,10634.0
+B1113,D008,General Ward,5,,10607.0
+B1114,D005,Private,4,,8517.0
+B1115,D011,NICU,3,Occupied,2511.0
+B1116,D005,NICU,0,Occupied,8337.0
+B1117,D017,Semi Private,5,Available,8319.0
+B1118,D016,Private,0,,7736.0
+B1119,D009,ICU,2,Maintenance,3064.0
+B1120,D010,Semi Private,1,Maintenance,
+B1121,D001,Private,4,Occupied,7525.0
+B1122,D005,ICU,2,,6761.0
+B1123,D004,General Ward,0,,5234.0
+B1124,D007,Isolation,3,,1467.0
+B1125,D007,ICU,1,Available,1793.0
+B1126,D005,NICU,2,Occupied,6870.0
+B1127,D005,Emergency,2,Available,3415.0
+B1128,D016,NICU,0,Occupied,5750.0
+B1129,D014,General Ward,5,Occupied,9736.0
+B1130,D001,General Ward,5,Occupied,6106.0
+B1131,D007,Isolation,3,,3709.0
+B1132,D006,Isolation,3,,4684.0
+B1133,D004,ICU,4,Available,6390.0
+B1134,D004,ICU,5,Available,4914.0
+B1135,D014,General Ward,2,Occupied,7951.0
+B1136,D011,General Ward,1,,10526.0
+B1137,D017,NICU,0,Maintenance,8251.0
+B1138,D002,Emergency,2,Available,2781.0
+B1139,D013,ICU,2,Occupied,9250.0
+B1140,D009,NICU,2,Occupied,11576.0
+B1141,D007,ICU,3,Occupied,1008.0
+B1142,D017,Private,3,Occupied,8722.0
+B1143,D012,Private,2,Occupied,10277.0
+B1144,D011,General Ward,5,,3687.0
+B1145,D003,ICU,4,Occupied,8609.0
+B1146,D005,Private,4,Maintenance,3037.0
+B1147,D017,General Ward,5,Occupied,5755.0
+B1148,D014,General Ward,0,Maintenance,9928.0
+B1149,D013,Semi Private,4,Occupied,6199.0
+B1150,D008,Semi Private,5,Available,7529.0
+B1151,D004,Private,3,Available,2249.0
+B1152,D017,ICU,1,Occupied,6918.0
+B1153,D001,Emergency,1,Available,9265.0
+B1154,D011,Private,5,Occupied,10303.0
+B1155,D017,Isolation,2,Occupied,9709.0
+B1156,D008,General Ward,5,Occupied,3793.0
+B1157,D001,Private,1,,8629.0
+B1158,D015,Isolation,1,Available,11475.0
+B1159,D013,General Ward,2,Maintenance,5673.0
+B1160,D001,ICU,0,Occupied,785.0
+B1161,D010,ICU,4,Occupied,2234.0
+B1162,D013,General Ward,5,Maintenance,5511.0
+B1163,D007,Isolation,2,Maintenance,9571.0
+B1164,D011,Private,0,Maintenance,2547.0
+B1165,D001,Isolation,0,Occupied,11535.0
+B1166,D016,Semi Private,1,Occupied,1253.0
+B1167,D016,General Ward,3,,3270.0
+B1168,D008,Emergency,2,Available,8646.0
+B1169,D004,General Ward,4,Available,951.0
+B1170,D018,Private,5,Available,11676.0
+B1171,D018,Private,5,Maintenance,4414.0
+B1172,D011,Semi Private,0,Maintenance,7006.0
+B1173,D008,Private,3,Maintenance,5034.0
+B1174,D015,Emergency,1,Maintenance,7140.0
+B1175,D015,Isolation,3,Occupied,6274.0
+B1176,D012,Isolation,5,Occupied,11993.0
+B1177,D008,General Ward,4,Occupied,8302.0
+B1178,D007,Semi Private,4,Occupied,
+B1179,D012,ICU,2,Occupied,1607.0
+B1180,D009,General Ward,1,Occupied,10812.0
+B1181,D002,NICU,0,,1207.0
+B1182,D011,Semi Private,2,,6399.0
+B1183,D008,Emergency,3,Maintenance,2794.0
+B1184,D007,Private,5,Available,8669.0
+B1185,D006,Isolation,3,Occupied,3335.0
+B1186,D009,NICU,0,Available,3605.0
+B1187,D008,Emergency,2,Available,11693.0
+B1188,D007,ICU,5,Available,8674.0
+B1189,D011,Emergency,4,Occupied,6150.0
+B1190,D001,NICU,4,,5587.0
+B1191,D013,NICU,4,Occupied,3716.0
+B1192,D017,Semi Private,5,Maintenance,5817.0
+B1193,D010,Isolation,5,Available,5511.0
+B1194,D010,Semi Private,1,Maintenance,8236.0
+B1195,D008,NICU,1,Occupied,8400.0
+B1196,D007,General Ward,5,Occupied,9601.0
+B1197,D017,General Ward,0,Occupied,11706.0
+B1198,D001,Emergency,4,Available,1417.0
+B1199,D006,NICU,3,Available,2449.0
+B1200,D011,Isolation,2,Occupied,5729.0
+B1201,D009,General Ward,3,Occupied,3319.0
+B1202,D016,ICU,2,Occupied,7562.0
+B1203,D003,ICU,3,Occupied,11262.0
+B1204,D006,NICU,1,Available,679.0
+B1205,D016,Isolation,5,Maintenance,8531.0
+B1206,D018,Private,4,Occupied,5362.0
+B1207,D001,Emergency,1,Occupied,9239.0
+B1208,D013,NICU,2,Available,6805.0
+B1209,D013,Isolation,3,Available,9774.0
+B1210,D009,Private,4,Occupied,10674.0
+B1211,D010,NICU,0,Available,4037.0
+B1212,D018,Isolation,1,Available,6019.0
+B1213,D012,Emergency,4,Occupied,8924.0
+B1214,D014,NICU,3,Occupied,9052.0
+B1215,D016,General Ward,5,Available,3576.0
+B1216,D018,Emergency,3,Available,9846.0
+B1217,D013,NICU,0,Maintenance,8443.0
+B1218,D017,Semi Private,5,Available,9543.0
+B1219,D006,NICU,4,,4853.0
+B1220,D013,NICU,3,Occupied,7832.0
+B1221,D017,Emergency,5,Available,10315.0
+B1222,D012,Emergency,3,Maintenance,2337.0
+B1223,D011,Semi Private,4,Available,
+B1224,D004,General Ward,0,Occupied,7113.0
+B1225,D005,Isolation,1,Occupied,
+B1226,D016,Isolation,4,Occupied,5789.0
+B1227,D002,ICU,4,Occupied,9856.0
+B1228,D004,ICU,0,Occupied,
+B1229,D004,Isolation,0,Occupied,1824.0
+B1230,D017,NICU,1,,5142.0
+B1231,D007,Isolation,5,Occupied,5437.0
+B1232,D014,ICU,0,Available,4741.0
+B1233,D002,Isolation,4,,6277.0
+B1234,D013,General Ward,3,,778.0
+B1235,D008,Semi Private,5,Occupied,4209.0
+B1236,D016,NICU,2,Maintenance,3429.0
+B1237,D001,Isolation,0,Maintenance,3710.0
+B1238,D011,Semi Private,1,Occupied,2523.0
+B1239,D011,Private,4,Available,2942.0
+B1240,D010,ICU,4,Occupied,4809.0
+B1241,D012,Isolation,4,Occupied,
+B1242,D014,NICU,1,Available,8855.0
+B1243,D011,ICU,3,Occupied,11030.0
+B1244,D004,Semi Private,2,,9778.0
+B1245,D011,ICU,5,Available,2346.0
+B1246,D009,Private,5,Occupied,4683.0
+B1247,D003,ICU,0,Occupied,3107.0
+B1248,D009,Isolation,0,Maintenance,8504.0
+B1249,D006,General Ward,5,,4832.0
+B1250,D008,Emergency,5,,
+B1251,D018,ICU,1,Occupied,11641.0
+B1252,D014,General Ward,0,Maintenance,5878.0
+B1253,D003,Private,4,,
+B1254,D010,Emergency,0,Occupied,9745.0
+B1255,D011,Emergency,4,Occupied,2185.0
+B1256,D001,General Ward,2,Available,6396.0
+B1257,D010,General Ward,3,Available,10354.0
+B1258,D004,NICU,4,,6725.0
+B1259,D008,ICU,4,Maintenance,5749.0
+B1260,D018,General Ward,1,Maintenance,5411.0
+B1261,D006,Private,2,Available,
+B1262,D005,General Ward,4,Maintenance,11629.0
+B1263,D012,Semi Private,2,Occupied,9381.0
+B1264,D017,Private,1,,2967.0
+B1265,D003,General Ward,1,Available,8403.0
+B1266,D009,Isolation,0,Occupied,4055.0
+B1267,D002,Emergency,4,Occupied,8016.0
+B1268,D003,Isolation,5,Available,3522.0
+B1269,D001,NICU,3,Occupied,883.0
+B1270,D004,General Ward,2,Occupied,4729.0
+B1271,D004,Emergency,1,Available,2374.0
+B1272,D001,ICU,0,Maintenance,7645.0
+B1273,D012,NICU,3,Available,8816.0
+B1274,D002,Isolation,3,,10113.0
+B1275,D010,ICU,2,Available,3781.0
+B1276,D010,General Ward,4,Maintenance,10481.0
+B1277,D006,Isolation,3,Maintenance,11885.0
+B1278,D018,General Ward,0,Available,4871.0
+B1279,D004,Emergency,1,Available,3249.0
+B1280,D014,Isolation,2,Maintenance,4860.0
+B1281,D010,Private,3,Occupied,2452.0
+B1282,D011,General Ward,1,Maintenance,9082.0
+B1283,D017,Emergency,3,Available,5746.0
+B1284,D002,ICU,4,Available,795.0
+B1285,D017,ICU,0,Occupied,5245.0
+B1286,D004,ICU,0,,9102.0
+B1287,D002,General Ward,5,Available,10116.0
+B1288,D013,Semi Private,5,,1465.0
+B1289,D008,Private,5,Available,687.0
+B1290,D011,Emergency,3,Available,6849.0
+B1291,D012,ICU,4,,825.0
+B1292,D004,General Ward,0,Available,6964.0
+B1293,D016,General Ward,5,Available,8564.0
+B1294,D005,NICU,4,Occupied,714.0
+B1295,D013,Semi Private,3,Available,9108.0
+B1296,D007,ICU,1,Available,8599.0
+B1297,D010,Semi Private,3,Occupied,7032.0
+B1298,D009,ICU,1,Maintenance,2568.0
+B1299,D012,Private,1,,4891.0
+B1300,D011,Emergency,5,Occupied,1005.0
+B1301,D014,ICU,4,,8828.0
+B1302,D012,Isolation,2,Available,2588.0
+B1303,D018,Private,2,Maintenance,9667.0
+B1304,D006,ICU,3,Available,4022.0
+B1305,D010,Semi Private,3,Available,4032.0
+B1306,D016,Semi Private,4,,10866.0
+B1307,D014,Emergency,3,Occupied,1358.0
+B1308,D018,Private,2,Occupied,1006.0
+B1309,D005,General Ward,4,Available,11538.0
+B1310,D011,Emergency,2,Occupied,9969.0
+B1311,D018,ICU,5,Occupied,3493.0
+B1312,D009,Private,0,Maintenance,8180.0
+B1313,D012,ICU,4,Occupied,4081.0
+B1314,D016,ICU,2,Maintenance,4289.0
+B1315,D005,Semi Private,1,Occupied,9028.0
+B1316,D005,General Ward,1,Available,5776.0
+B1317,D002,NICU,4,,3009.0
+B1318,D012,NICU,3,Occupied,9645.0
+B1319,D002,Isolation,0,Occupied,10347.0
+B1320,D004,NICU,4,Available,3419.0
+B1321,D003,Emergency,4,Available,5692.0
+B1322,D013,Semi Private,1,,8593.0
+B1323,D001,Emergency,3,,904.0
+B1324,D001,NICU,1,Available,2830.0
+B1325,D005,Emergency,3,Occupied,7057.0
+B1326,D014,Semi Private,0,Occupied,11602.0
+B1327,D017,Emergency,3,Occupied,8630.0
+B1328,D010,Emergency,2,Maintenance,3085.0
+B1329,D014,Private,3,,1596.0
+B1330,D016,NICU,3,,9372.0
+B1331,D015,Semi Private,4,,3250.0
+B1332,D016,General Ward,1,Maintenance,6276.0
+B1333,D014,General Ward,5,,8519.0
+B1334,D004,ICU,4,Maintenance,1734.0
+B1335,D006,NICU,4,,6397.0
+B1336,D002,Isolation,3,Occupied,7913.0
+B1337,D005,Private,3,Occupied,8547.0
+B1338,D015,NICU,1,Occupied,4304.0
+B1339,D013,ICU,4,Available,2515.0
+B1340,D008,General Ward,1,Maintenance,8367.0
+B1341,D015,ICU,2,Available,5886.0
+B1342,D015,General Ward,0,,4442.0
+B1343,D011,NICU,5,Available,7151.0
+B1344,D012,NICU,5,Available,4216.0
+B1345,D012,Semi Private,4,,10475.0
+B1346,D015,Private,3,Occupied,7787.0
+B1347,D010,ICU,4,Available,9331.0
+B1348,D008,Private,5,Available,6767.0
+B1349,D004,General Ward,3,Available,11238.0
+B1350,D007,General Ward,4,Occupied,10240.0
+B1351,D013,ICU,0,Occupied,1202.0
+B1352,D013,General Ward,2,Available,4114.0
+B1353,D015,Private,1,Occupied,6932.0
+B1354,D003,Private,4,Occupied,2408.0
+B1355,D003,Isolation,4,Occupied,9125.0
+B1356,D013,Emergency,3,Available,5104.0
+B1357,D006,General Ward,4,Occupied,4428.0
+B1358,D012,Isolation,5,Available,10556.0
+B1359,D007,Semi Private,4,Available,7199.0
+B1360,D011,Private,1,,9277.0
+B1361,D006,Semi Private,2,Occupied,3217.0
+B1362,D005,NICU,4,,3118.0
+B1363,D008,Isolation,4,Occupied,10083.0
+B1364,D018,ICU,3,Occupied,8940.0
+B1365,D013,Private,3,Available,11230.0
+B1366,D006,Isolation,5,Available,3583.0
+B1367,D003,Emergency,1,Available,3900.0
+B1368,D018,ICU,5,Occupied,7245.0
+B1369,D016,ICU,2,Available,10057.0
+B1370,D007,Semi Private,0,Available,1710.0
+B1371,D015,Emergency,4,Occupied,10106.0
+B1372,D011,General Ward,2,Occupied,6004.0
+B1373,D008,Emergency,2,Maintenance,7730.0
+B1374,D015,General Ward,0,Maintenance,2268.0
+B1375,D005,Isolation,5,Occupied,8298.0
+B1376,D016,General Ward,2,Available,9476.0
+B1377,D012,General Ward,3,Occupied,3901.0
+B1378,D004,ICU,0,Maintenance,668.0
+B1379,D007,ICU,3,Occupied,1339.0
+B1380,D003,ICU,3,Occupied,11840.0
+B1381,D011,General Ward,1,Available,3680.0
+B1382,D017,Isolation,3,Available,961.0
+B1383,D013,Semi Private,4,Occupied,10805.0
+B1384,D005,ICU,3,Occupied,6530.0
+B1385,D001,NICU,3,Occupied,
+B1386,D016,General Ward,1,Occupied,5556.0
+B1387,D003,Emergency,4,Available,4620.0
+B1388,D007,Semi Private,4,Available,1835.0
+B1389,D017,ICU,1,Occupied,5769.0
+B1390,D009,General Ward,2,Maintenance,9564.0
+B1391,D016,Private,3,,10240.0
+B1392,D015,Private,3,Occupied,7123.0
+B1393,D018,General Ward,2,Available,9484.0
+B1394,D011,NICU,2,Available,9996.0
+B1395,D010,NICU,2,Occupied,11748.0
+B1396,D002,Emergency,0,Available,8448.0
+B1397,D015,Private,2,Maintenance,5517.0
+B1398,D009,ICU,3,Occupied,9037.0
+B1399,D012,NICU,2,Maintenance,2936.0
+B1400,D008,Isolation,4,Occupied,11257.0
+B1401,D007,General Ward,4,,9448.0
+B1402,D009,General Ward,4,Maintenance,7928.0
+B1403,D003,Semi Private,1,Available,5698.0
+B1404,D004,NICU,0,Occupied,11049.0
+B1405,D006,Semi Private,2,Occupied,
+B1406,D007,Private,1,Occupied,3921.0
+B1407,D014,NICU,0,Occupied,11702.0
+B1408,D010,General Ward,4,Available,11694.0
+B1409,D014,General Ward,4,,3644.0
+B1410,D006,General Ward,2,Maintenance,2093.0
+B1411,D018,Semi Private,1,,9448.0
+B1412,D011,Semi Private,1,Occupied,11232.0
+B1413,D002,Private,0,Maintenance,4497.0
+B1414,D013,Emergency,4,Occupied,11493.0
+B1415,D013,Private,4,Available,10633.0
+B1416,D015,Semi Private,1,Maintenance,797.0
+B1417,D005,Isolation,0,Available,2625.0
+B1418,D001,NICU,5,Occupied,1920.0
+B1419,D013,Semi Private,2,Maintenance,5851.0
+B1420,D009,General Ward,5,Available,8562.0
+B1421,D015,Emergency,1,Occupied,4425.0
+B1422,D010,ICU,0,Available,10938.0
+B1423,D001,Private,2,Maintenance,
+B1424,D011,Emergency,5,Available,604.0
+B1425,D012,Semi Private,4,Occupied,9255.0
+B1426,D001,Semi Private,5,,3925.0
+B1427,D008,General Ward,3,Occupied,7224.0
+B1428,D016,ICU,2,,2134.0
+B1429,D011,Private,2,,6684.0
+B1430,D001,NICU,4,Maintenance,3527.0
+B1431,D004,NICU,1,Maintenance,2827.0
+B1432,D014,General Ward,1,Available,8747.0
+B1433,D001,General Ward,5,Occupied,8186.0
+B1434,D011,Private,4,Available,10160.0
+B1435,D012,Emergency,4,Occupied,5234.0
+B1436,D016,Emergency,0,Maintenance,8241.0
+B1437,D002,Isolation,3,Available,4317.0
+B1438,D009,ICU,3,Occupied,1924.0
+B1439,D016,Isolation,0,Occupied,1551.0
+B1440,D017,Isolation,4,,754.0
+B1441,D015,NICU,0,Available,10222.0
+B1442,D003,Isolation,3,Occupied,8776.0
+B1443,D005,General Ward,2,Occupied,2609.0
+B1444,D008,Semi Private,1,Maintenance,1460.0
+B1445,D016,ICU,2,,5324.0
+B1446,D006,Isolation,0,,
+B1447,D018,Emergency,4,,2331.0
+B1448,D016,ICU,5,,7158.0
+B1449,D008,Emergency,3,Occupied,2062.0
+B1450,D012,NICU,4,Available,1541.0
+B1451,D016,Emergency,3,Available,3597.0
+B1452,D013,NICU,5,Available,4593.0
+B1453,D017,Private,2,Maintenance,7529.0
+B1454,D012,Semi Private,5,Available,3327.0
+B1455,D014,Isolation,3,Maintenance,
+B1456,D009,Isolation,3,Maintenance,9499.0
+B1457,D005,Isolation,5,Available,11747.0
+B1458,D014,ICU,3,Occupied,6550.0
+B1459,D012,NICU,0,Occupied,8339.0
+B1460,D007,Semi Private,3,,11012.0
+B1461,D002,NICU,5,Occupied,1518.0
+B1462,D011,General Ward,2,,2189.0
+B1463,D010,ICU,5,Occupied,6604.0
+B1464,D016,Semi Private,1,,9407.0
+B1465,D003,NICU,2,Occupied,10407.0
+B1466,D016,ICU,5,Available,7177.0
+B1467,D015,Emergency,0,Available,8240.0
+B1468,D009,NICU,4,Available,2270.0
+B1469,D004,Semi Private,3,Occupied,9826.0
+B1470,D014,Private,5,Available,7310.0
+B1471,D017,NICU,2,Occupied,6207.0
+B1472,D014,General Ward,4,Available,3113.0
+B1473,D016,ICU,3,,11053.0
+B1474,D010,Isolation,0,Available,7591.0
+B1475,D009,Isolation,1,Occupied,11202.0
+B1476,D017,Emergency,5,Occupied,4431.0
+B1477,D013,Isolation,4,Occupied,652.0
+B1478,D004,Semi Private,1,Occupied,
+B1479,D011,NICU,2,Occupied,11489.0
+B1480,D004,ICU,3,Occupied,7159.0
+B1481,D014,General Ward,2,Occupied,7395.0
+B1482,D001,Semi Private,5,Occupied,10567.0
+B1483,D001,General Ward,5,Occupied,9109.0
+B1484,D018,General Ward,4,,1259.0
+B1485,D001,Emergency,2,Occupied,3844.0
+B1486,D009,Private,0,,2771.0
+B1487,D010,Emergency,0,Available,11026.0
+B1488,D007,NICU,2,,11567.0
+B1489,D012,Isolation,2,Maintenance,7761.0
+B1490,D018,Semi Private,0,,3927.0
+B1491,D008,Private,4,,9723.0
+B1492,D011,General Ward,2,Maintenance,9759.0
+B1493,D004,NICU,5,Maintenance,7157.0
+B1494,D001,Private,0,Available,7619.0
+B1495,D002,Isolation,0,Occupied,6796.0
+B1496,D014,Semi Private,5,Occupied,3414.0
+B1497,D016,Private,3,Available,9932.0
+B1498,D002,Emergency,0,Available,837.0
+B1499,D015,Semi Private,1,,9959.0
+B1500,D014,General Ward,0,,1616.0
+B1501,D001,Isolation,3,,3831.0
+B1502,D008,Emergency,5,Available,7980.0
+B1503,D009,General Ward,5,Available,5116.0
+B1504,D012,Semi Private,4,Occupied,1601.0
+B1505,D008,General Ward,4,Available,3103.0
+B1506,D001,Emergency,2,Available,9431.0
+B1507,D002,NICU,1,Available,3924.0
+B1508,D015,Isolation,3,Available,10110.0
+B1509,D007,Emergency,1,,
+B1510,D009,Semi Private,2,Available,1670.0
+B1511,D003,NICU,4,Maintenance,11259.0
+B1512,D012,NICU,3,Maintenance,7740.0
+B1513,D005,Emergency,0,,6150.0
+B1514,D016,Isolation,2,,11442.0
+B1515,D009,Semi Private,5,Occupied,6692.0
+B1516,D005,NICU,3,Available,8455.0
+B1517,D003,General Ward,2,Available,3996.0
+B1518,D005,Private,4,Available,6052.0
+B1519,D018,Private,4,Available,1257.0
+B1520,D004,Private,3,Available,11689.0
+B1521,D008,Isolation,4,Available,9237.0
+B1522,D007,ICU,1,Occupied,3365.0
+B1523,D002,General Ward,2,,2635.0
+B1524,D010,Emergency,0,Maintenance,11866.0
+B1525,D008,Emergency,5,,662.0
+B1526,D017,Private,2,Occupied,4994.0
+B1527,D002,Private,4,Occupied,8591.0
+B1528,D004,Semi Private,3,Occupied,11280.0
+B1529,D018,Semi Private,4,,11564.0
+B1530,D002,Semi Private,5,Occupied,11767.0
+B1531,D018,General Ward,1,Occupied,4113.0
+B1532,D016,Semi Private,4,Available,861.0
+B1533,D012,Private,5,Occupied,2058.0
+B1534,D007,NICU,2,Occupied,10212.0
+B1535,D015,Emergency,0,Occupied,2639.0
+B1536,D010,Private,1,Occupied,4812.0
+B1537,D004,Emergency,3,Occupied,9932.0
+B1538,D006,Isolation,0,Maintenance,11521.0
+B1539,D014,Private,3,Available,953.0
+B1540,D001,Semi Private,4,Available,7814.0
+B1541,D001,Semi Private,3,Occupied,5081.0
+B1542,D006,Emergency,0,,8855.0
+B1543,D014,Private,1,Available,9192.0
+B1544,D015,Private,5,,3393.0
+B1545,D009,Emergency,1,,5059.0
+B1546,D011,Semi Private,0,Available,2121.0
+B1547,D017,Emergency,0,Maintenance,9466.0
+B1548,D013,NICU,2,Maintenance,3994.0
+B1549,D003,Semi Private,0,Occupied,10998.0
+B1550,D017,Semi Private,0,Occupied,4045.0
+B1551,D009,General Ward,4,Available,6276.0
+B1552,D005,ICU,1,Available,7368.0
+B1553,D001,NICU,3,,8156.0
+B1554,D013,Emergency,5,Occupied,2910.0
+B1555,D005,Emergency,0,Available,1009.0
+B1556,D010,General Ward,3,Occupied,8264.0
+B1557,D018,Isolation,5,Maintenance,11629.0
+B1558,D018,General Ward,0,Available,11681.0
+B1559,D015,Private,3,Maintenance,1533.0
+B1560,D017,Emergency,4,Occupied,11073.0
+B1561,D005,General Ward,1,Occupied,10138.0
+B1562,D001,Isolation,5,Maintenance,802.0
+B1563,D006,NICU,5,Available,2291.0
+B1564,D018,NICU,0,Available,4933.0
+B1565,D005,NICU,3,,8426.0
+B1566,D012,Emergency,4,Available,4157.0
+B1567,D007,Emergency,3,Maintenance,5033.0
+B1568,D014,NICU,3,Available,2789.0
+B1569,D012,Emergency,2,,8162.0
+B1570,D011,Private,5,Maintenance,3334.0
+B1571,D005,Emergency,3,Maintenance,3336.0
+B1572,D005,Emergency,3,Available,1313.0
+B1573,D001,General Ward,0,Maintenance,8954.0
+B1574,D011,Emergency,2,Available,9844.0
+B1575,D007,NICU,3,Maintenance,6539.0
+B1576,D018,Emergency,2,,9309.0
+B1577,D010,Emergency,1,Available,11744.0
+B1578,D017,General Ward,0,Occupied,668.0
+B1579,D002,ICU,2,Maintenance,10575.0
+B1580,D008,Emergency,0,Occupied,922.0
+B1581,D001,ICU,5,Maintenance,11257.0
+B1582,D006,Semi Private,0,Occupied,2225.0
+B1583,D012,Semi Private,4,Maintenance,6410.0
+B1584,D004,Isolation,0,Maintenance,1725.0
+B1585,D012,Semi Private,0,Occupied,8098.0
+B1586,D015,ICU,0,Occupied,5144.0
+B1587,D004,NICU,0,,11350.0
+B1588,D013,Semi Private,4,Maintenance,9347.0
+B1589,D003,Private,5,,10219.0
+B1590,D011,General Ward,1,Available,8767.0
+B1591,D010,Emergency,3,Occupied,7212.0
+B1592,D014,General Ward,0,Maintenance,2671.0
+B1593,D015,ICU,5,,2584.0
+B1594,D005,Semi Private,3,Available,817.0
+B1595,D007,NICU,1,Available,
+B1596,D001,Private,0,Maintenance,9288.0
+B1597,D010,General Ward,0,Maintenance,7377.0
+B1598,D010,Private,0,Occupied,8374.0
+B1599,D004,Isolation,4,Maintenance,4507.0
+B1600,D018,Semi Private,4,Available,7219.0
+B1601,D012,Private,0,,5000.0
+B1602,D002,Emergency,3,Maintenance,4410.0
+B1603,D015,Semi Private,4,,10769.0
+B1604,D003,Private,4,Available,9252.0
+B1605,D003,ICU,3,,10271.0
+B1606,D007,ICU,0,Maintenance,4855.0
+B1607,D017,Isolation,5,Available,1545.0
+B1608,D007,NICU,5,Maintenance,6600.0
+B1609,D012,Private,4,Occupied,3174.0
+B1610,D003,General Ward,0,Maintenance,4577.0
+B1611,D009,Private,4,Occupied,6362.0
+B1612,D014,Private,0,Maintenance,
+B1613,D008,Emergency,2,Maintenance,9031.0
+B1614,D012,General Ward,1,,3498.0
+B1615,D010,NICU,1,Occupied,11068.0
+B1616,D015,Private,1,Occupied,1511.0
+B1617,D013,ICU,3,Occupied,2713.0
+B1618,D012,General Ward,5,Occupied,9866.0
+B1619,D018,ICU,5,Available,10868.0
+B1620,D009,Private,3,,1185.0
+B1621,D018,Private,1,Occupied,
+B1622,D018,Private,5,,6957.0
+B1623,D011,ICU,2,Occupied,7061.0
+B1624,D010,Semi Private,2,Available,6535.0
+B1625,D015,Isolation,3,Available,2228.0
+B1626,D014,ICU,2,Occupied,6444.0
+B1627,D006,NICU,2,Occupied,1646.0
+B1628,D001,Isolation,0,Available,8087.0
+B1629,D014,General Ward,5,,4804.0
+B1630,D008,General Ward,5,,8561.0
+B1631,D010,NICU,2,,7725.0
+B1632,D017,ICU,0,,3112.0
+B1633,D013,General Ward,5,Maintenance,4478.0
+B1634,D016,Emergency,3,Occupied,11490.0
+B1635,D007,Private,4,Available,5111.0
+B1636,D015,General Ward,5,Maintenance,3926.0
+B1637,D001,Semi Private,2,Available,11709.0
+B1638,D006,Isolation,1,Occupied,7552.0
+B1639,D004,Isolation,5,Available,6938.0
+B1640,D016,General Ward,2,,10751.0
+B1641,D013,General Ward,4,,7359.0
+B1642,D004,ICU,1,Occupied,5127.0
+B1643,D016,Semi Private,1,Available,7679.0
+B1644,D009,Private,0,,10686.0
+B1645,D007,General Ward,1,Occupied,9113.0
+B1646,D005,NICU,0,Occupied,11266.0
+B1647,D014,ICU,1,Maintenance,11269.0
+B1648,D010,Isolation,4,Occupied,5268.0
+B1649,D003,General Ward,5,Available,10865.0
+B1650,D016,Semi Private,2,Available,7565.0
+B1651,D006,Emergency,1,Occupied,5998.0
+B1652,D006,NICU,0,Occupied,11183.0
+B1653,D012,NICU,3,Occupied,627.0
+B1654,D012,Semi Private,3,Available,4060.0
+B1655,D004,ICU,2,Available,4437.0
+B1656,D010,Isolation,5,Available,6368.0
+B1657,D012,Semi Private,1,Available,813.0
+B1658,D018,Emergency,2,Available,4862.0
+B1659,D017,Isolation,4,,6772.0
+B1660,D011,Semi Private,1,Occupied,
+B1661,D001,Isolation,1,Available,11904.0
+B1662,D004,ICU,2,Available,1269.0
+B1663,D018,General Ward,3,Occupied,2175.0
+B1664,D006,NICU,0,Available,
+B1665,D001,Isolation,5,Occupied,11828.0
+B1666,D003,General Ward,4,Occupied,2701.0
+B1667,D001,Private,1,Available,7842.0
+B1668,D004,ICU,5,Available,7150.0
+B1669,D002,NICU,3,,6223.0
+B1670,D006,ICU,0,,1117.0
+B1671,D013,ICU,0,,10729.0
+B1672,D008,ICU,2,Maintenance,6938.0
+B1673,D002,Private,3,Occupied,1050.0
+B1674,D001,Semi Private,3,Maintenance,4537.0
+B1675,D004,Semi Private,2,,1105.0
+B1676,D001,ICU,2,,7947.0
+B1677,D015,NICU,0,Occupied,6426.0
+B1678,D008,Emergency,5,Available,11874.0
+B1679,D009,NICU,3,Occupied,8710.0
+B1680,D018,Private,3,Occupied,6120.0
+B1681,D018,General Ward,1,Occupied,7192.0
+B1682,D008,ICU,0,Maintenance,
+B1683,D010,NICU,2,Available,11402.0
+B1684,D001,Emergency,5,Occupied,3810.0
+B1685,D007,General Ward,2,Available,11909.0
+B1686,D002,Emergency,5,,10692.0
+B1687,D014,Emergency,4,Available,11002.0
+B1688,D001,Private,4,Occupied,7289.0
+B1689,D015,ICU,2,Available,4316.0
+B1690,D016,Private,5,Maintenance,2666.0
+B1691,D003,Private,5,Occupied,3338.0
+B1692,D018,Semi Private,4,Available,10136.0
+B1693,D015,Semi Private,5,Occupied,10737.0
+B1694,D006,Isolation,5,Occupied,2511.0
+B1695,D016,Isolation,2,Occupied,10462.0
+B1696,D002,General Ward,3,,4754.0
+B1697,D007,Isolation,5,Occupied,10894.0
+B1698,D009,Semi Private,0,Occupied,6010.0
+B1699,D011,Isolation,3,,11835.0
